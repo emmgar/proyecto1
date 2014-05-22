@@ -1,0 +1,22 @@
+/* Customized styles */
+.alert-box h5{
+    color: #ffffff !important;
+}
+
+#cloze-text{
+    border-right: solid #007095;
+}
+
+.ui-widget-content{
+    margin-bottom: 5px;
+    cursor: move;
+    border: solid thin #eeeeee;
+    width: 105px;
+    height: 38px;
+    background-color: #ddd;
+}
+.ui-widget-content p{
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+}
